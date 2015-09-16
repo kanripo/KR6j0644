@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:02.049455
+#+DATE: 2015-08-30 20:37:02.828443
 #+TITLE: 佛說寶生陀羅尼經
 #+PROPERTY: CBETA_ID T21n1412
 #+PROPERTY: ID KR6j0644
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1412
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6j0644_T_001-0926c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1412¶
-
- 佛說寶生陀羅尼經¶
+No. 1412¶
+佛說寶生陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚少卿¶
-傳法大師臣施護奉　詔譯¶
+宋西天譯經三藏朝散大夫試鴻臚少卿傳法大師臣三藏朝散大夫試鴻臚少卿¶
+傳法大師施護奉　詔譯¶
 
 曩謨(引)囉怛曩(二合)囉濕彌(二合)贊捺囉(二合)鉢¶
 囉(二合)底曼尼哆尾儞焰(二合)帝(引)惹具世濕嚩¶

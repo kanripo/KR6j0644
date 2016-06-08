@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:02.637499
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:43
 #+TITLE: 佛說寶生陀羅尼經
 #+PROPERTY: CBETA_ID T21n1412
 #+PROPERTY: ID KR6j0644
